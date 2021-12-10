@@ -1,0 +1,36 @@
+* {
+  margin: 0%;
+  background-color: rgba(133, 187, 169, 0.404);
+}
+#ryan {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#right_ear {
+  right: 475px;
+  width: 92px;
+  height: 92px;
+  border: 10px solid #000;
+  border-radius: 100%;
+  background: #d59729;
+}
+#left_ear {
+  position: absolute;
+  top: 300px;
+  left: 500px;
+  width: 92px;
+  height: 92px;
+  border: 10px solid #000;
+  border-radius: 100%;
+  background: #d59729;
+}
+#circle {
+  position: center;
+  width: 300px;
+  height: 300px;
+  border: 10px solid #000;
+  border-radius: 100%;
+  background: #d59729;
+}
