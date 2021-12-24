@@ -19,6 +19,7 @@ body {
 .item1 {
   background: #ef9a9a;
   flex-basis: 60%;
+  align-self: center;
 }
 .item2 {
   background: #f48fb1;
