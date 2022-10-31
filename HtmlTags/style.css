@@ -1,0 +1,40 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.login {
+    margin: 200px auto auto auto;
+    text-align: center;
+}
+
+.title {
+    margin: 20px auto 20px auto;
+}
+
+.userid {
+    margin: 10px auto auto auto;
+}
+
+.psword {
+    margin: 10px auto auto auto;
+}
+
+.w-btn {
+    position: relative;
+    border: none;
+    display: inline-block;
+    padding: 15px 30px;
+    border-radius: 10px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.w-btn-indigo {
+    background-color: aliceblue;
+    margin: 20px auto 20px auto;
+    color: rgb(89, 0, 255);
+}
+
+.box {
+    border: 1px solid black;
+}
